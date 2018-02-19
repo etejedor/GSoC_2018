@@ -8,6 +8,10 @@ The exercise is divided into two tasks. In order to complete the first one no pr
 
 Please follow the guidelines below to go through the exercise and work at a pace that suits you. We recommend that you start with the first task and, only if you successfully complete it, you go for the second one. Do not hesitate to ask us, the mentors, any question you might have.
 
+Once you complete any of the tasks of this exercise, please send us by e-mail the requested deliverables at:
+etejedor@cern.ch, diogo.castro@cern.ch, danilo.piparo@cern.ch, prasanth.kothuri@cern.ch
+
+
 ### *TASK 1: Execute a Jupyter notebook that contains a ROOT distributed analysis*
 
 The objective of this task is to execute a Python Jupyter notebook whose code corresponds to a data analysis that uses ROOT's TDataFrame. The analysis is distributed with Spark thanks to the DistROOT module.
@@ -47,7 +51,3 @@ The "SWAN" word replacement described in the first part of this task should also
 In that sense, we propose here an additional feature for your extension: listen to the markdown cell render event of Jupyter and perform the "SWAN" word replacement when that event is triggered on a particular cell. This will require that you understand how to monitor changes within cells and how to manipulate its contents.
 
 The __deliverable__ of this part is the same packaged Jupyter Nbextension that was requested before, with the additional functionality described above.
-
-
-Once you complete any of the tasks of this exercise, please send us by e-mail the requested deliverables at:
-etejedor@cern.ch, diogo.castro@cern.ch, danilo.piparo@cern.ch, prasanth.kothuri@cern.ch
