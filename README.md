@@ -8,7 +8,7 @@ The exercise is divided into two tasks. In order to complete the first one no pr
 
 Please follow the guidelines below to go through the exercise and work at a pace that suits you. We recommend that you start with the first task and, only if you successfully complete it, you go for the second one. Do not hesitate to ask us, the mentors, any question you might have.
 
-Once you complete any of the tasks of this exercise, please send us by e-mail the requested deliverables and the answers to the proposed questions at:
+Once you complete __any of the tasks__ of this exercise, please send us by e-mail the requested deliverables and the answers to the proposed questions at:
 etejedor@cern.ch, diogo.castro@cern.ch, danilo.piparo@cern.ch, prasanth.kothuri@cern.ch
 
 
@@ -28,9 +28,10 @@ At the light of the results you obtained, please __answer__ the following questi
 * What is the number of rows (or entries) of the initial dataset?
 * How many entries are left after applying the filters?
 * Could you add another filter to cell #3 on any of the columns of the dataset? How would you specify it? What is the resulting number of entries after adding that filter?
+* How many partitions of the dataset are created in the distributed execution? Can you guess what would be the entry ranges for each of these partitions?
 
 
-### *TASK 2: Replace all the words “SWAN” with the SWAN logo*
+### *TASK 2: Replace all the “SWAN” words with the SWAN logo*
 
 The objective of this task is to write a [Jupyter Nbextension](http://jupyter-notebook.readthedocs.io/en/stable/extending/frontend_extensions.html) that replaces all the “SWAN” strings which are located inside *markdown cells* with the SWAN logo. The image should only be displayed if the extension is active, therefore only the rendered output of a markdown cell should be replaced, and not the content of the cell itself.
 
