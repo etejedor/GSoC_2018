@@ -19,3 +19,8 @@ In preparation for this task you will need to:
 * Download the [test notebook](Spark_DistROOT_TDataFrame.ipynb) and the [DistROOT module](DistROOT.py) from this repository.
 
 Once you have set up your environment with all the software listed above, you should be able to run the test notebook. The __deliverable__ of this task is precisely that notebook after being executed and saved, that is, the notebook containing the code cells plus the generated output cells.
+
+At the light of the results you obtained, please __answer__ the following questions:
+* What is the number of rows (or entries) of the initial dataset?
+* How many entries are left after applying the filters?
+* Could you add another filter to cell #3 on any of the columns of the dataset? How would you specify it? What is the resulting number of entries after adding that filter?
