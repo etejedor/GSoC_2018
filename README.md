@@ -8,7 +8,7 @@ The exercise is divided into two tasks. In order to complete the first one no pr
 
 Please follow the guidelines below to go through the exercise and work at a pace that suits you. We recommend that you start with the first task and, only if you successfully complete it, you go for the second one. Do not hesitate to ask us, the mentors, any question you might have.
 
-Once you complete any of the tasks of this exercise, please send us by e-mail the requested deliverables at:
+Once you complete any of the tasks of this exercise, please send us by e-mail the requested deliverables and the answers to the proposed questions at:
 etejedor@cern.ch, diogo.castro@cern.ch, danilo.piparo@cern.ch, prasanth.kothuri@cern.ch
 
 
