@@ -28,7 +28,7 @@ At the light of the results you obtained, please __answer__ the following questi
 
 ### *TASK 2: Replace all the words “SWAN” with the SWAN logo*
 
-The objective of this task is to write a [Jupyter Nbextension](http://jupyter-notebook.readthedocs.io/en/stable/extending/frontend_extensions.html) that replaces all the “SWAN” strings which are located inside *markdown cells* with the SWAN logo. The image should only be displayed if the extension is active, therefore only the rendered output of a markdown cell should be replaced, and not the content of the cell itself.
+The objective of this task is to write a [Jupyter Nbextension](http://jupyter-notebook.readthedocs.io/en/stable/extending/frontend_extensions.html) that replaces all the “SWAN” strings which are located inside *markdown cells* with the [SWAN logo](logo_swan_cloudhisto.png). The image should only be displayed if the extension is active, therefore only the rendered output of a markdown cell should be replaced, and not the content of the cell itself.
 
 ![SWAN text replacement](swan_image1.png)
 
